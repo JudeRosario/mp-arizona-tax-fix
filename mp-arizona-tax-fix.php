@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Fix for MarketPress Tax Calculation (Arizona State)
-Version: 1.0.0
+Version: 1.0.1
 Description: Just specify your base state as Arizona and set the tax rate, the state tax calculation automatically applies to any purchases made in the store including overseas
 Plugin URI: http://premium.wpmudev.org/
 Author: Jude (WPMU DEV)
